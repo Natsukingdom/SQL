@@ -4,7 +4,7 @@
 1. create user
    ```sql
    grant all privileges on *.* to 'hoge'@'localhost'
-   identifiedby 'password';
+   identified by 'password';
    ```
 1. login
 1. create database
